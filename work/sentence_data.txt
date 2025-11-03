@@ -1,0 +1,1 @@
+tule:('ALL', 'THE', 'BEST')list:['ALL', 'THE', 'BEST']
