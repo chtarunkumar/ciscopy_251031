@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./day3/list_to_json/employees_sql"
+    ]
+}

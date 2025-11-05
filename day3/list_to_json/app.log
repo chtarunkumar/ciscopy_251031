@@ -1,0 +1,21 @@
+2025-11-04 12:10:05,933 [INFO] Employee Added Successfully
+2025-11-04 12:10:05,934 [INFO] Employee 888 added successfully
+2025-11-04 12:14:56,348 [INFO] Thank you for using the application
+2025-11-04 12:14:56,349 [INFO] End of application.
+2025-11-04 13:31:08,095 [INFO] Employees loaded successfully from database.
+2025-11-04 13:31:16,629 [INFO] Employee Added Successfully
+2025-11-04 13:31:16,630 [INFO] Employee 2f added successfully
+2025-11-04 13:42:22,308 [INFO] Thank you for using the application
+2025-11-04 13:42:22,309 [INFO] End of application.
+2025-11-04 13:43:04,443 [INFO] Employees loaded successfully from database.
+2025-11-04 13:43:18,762 [INFO] Employee Added Successfully
+2025-11-04 13:43:18,762 [INFO] Employee tarun added successfully
+2025-11-04 13:49:57,639 [INFO] Employees loaded successfully from database.
+2025-11-04 13:50:07,618 [INFO] ID already exist.
+2025-11-04 13:50:24,444 [INFO] List of Employees:
+2025-11-04 13:50:24,444 [INFO] [id = 199, name = raja, job_title = dcn, salary = 9]
+2025-11-04 13:50:24,445 [INFO] [id = 111, name = 888, job_title = dgf, salary = 789]
+2025-11-04 13:50:24,445 [INFO] [id = 101, name = 2f, job_title = d33e, salary = 33e]
+2025-11-04 13:50:24,445 [INFO] [id = 01, name = tarun, job_title = tcs, salary = 34]
+2025-11-04 13:59:40,911 [INFO] Thank you for using the application
+2025-11-04 13:59:40,911 [INFO] End of application.
